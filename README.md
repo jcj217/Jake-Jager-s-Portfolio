@@ -9,7 +9,7 @@ About Me:
 I am a student in the MPM program at Heinz. I am alos a staff member within the Finance division of University Advancement. I hope to do some none proffit work after graduation. 
 
 What I hope to learn:
-I hope to be much more persuasive with my agrumentation through visuals. 
+I hope to be much more persuasive with my argumentation through visuals. 
 
 ![New Barchart](https://datawrapper.dwcdn.net/ILahJ/1/)
 
