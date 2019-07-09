@@ -10,3 +10,5 @@ I am a student in the MPM program at Heinz. I am alos a staff member within the 
 
 What I hope to learn:
 I hope to be much more persuasive with my agrumentation through visuals. 
+
+![New Barchart](https://app.datawrapper.de/account/invite/0d9a51873e4e2e47bf83babd1a2e82cffbd573238c3750dde46a1c1682b4867b?chart=ILahJ)
