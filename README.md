@@ -13,3 +13,4 @@ I hope to be much more persuasive with my agrumentation through visuals.
 
 ![New Barchart](https://datawrapper.dwcdn.net/ILahJ/1/)
 
+![New Barchart](https://jcj217.github.io/Jake-Jager-s-Portfolio/My Dataviz.PNG)
