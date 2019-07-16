@@ -6,12 +6,12 @@ link to live site https://jcj217.github.io/Jake-Jager-s-Portfolio/
 This is my public portfolio for Telling Stories with Data
 
 About Me:
-I am a student in the MPM program at Heinz. I am alos a staff member within the Finance division of University Advancement. I hope to do some none proffit work after graduation. 
+I am a student in the MPM program at Heinz. I am alos a staff member within the Finance division of University Advancement. I hope to do some noneprofit work after graduation. 
 
 What I hope to learn:
 I hope to be much more persuasive with my argumentation through visuals. 
 
-![New Barchart](https://datawrapper.dwcdn.net/ILahJ/1/)
+<iframe title="Facebook Left-clicks (Copy)" aria-label="Bar Chart" id="datawrapper-chart-tPLUg" src="//datawrapper.dwcdn.net/tPLUg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="295"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 ![New Barchart](https://jcj217.github.io/Jake-Jager-s-Portfolio/My Dataviz.PNG)
 
