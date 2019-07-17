@@ -1,4 +1,4 @@
-# Jake-Jager-s-Portfolio
+# Jake-Jager's-Portfolio
 
 ![Profile Pic](https://jcj217.github.io/Jake-Jager-s-Portfolio/Profile Pic.jpg)
 [Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)
@@ -19,8 +19,9 @@ For this critique I focused on the immediate impression I had. Becuase the graph
 
 <iframe title="Overdose deaths, per 100,000 population" aria-label="USA states choropleth map" id="datawrapper-chart-fn7qz" src="//datawrapper.dwcdn.net/fn7qz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-
-There are three part to this data visualization. The top part with the houses, illustrates the overall increase in assylum seekers as compared to the year before, showing 124% increase. The two illustration below illustrate the percentages of each category in that given year. Since this was intended for the lay person I thought it should be more ascthetically pleasing, colorful, and illustrate the point in more than one way.
+## **Journalist's Report:**
+There are three part to this data visualization. The top part with the houses, illustrates the overall increase in assylum seekers as compared to the year before, showing 124% increase. The two illustration below illustrate the percentages of each category in that given year. Since this was intended for the lay person I thought it should be more ascthetically pleasing, colorful, and illustrate the point in more than one way.**Source:**
+[DHS Alert from Office of the Inspector General](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
 
 <div class="infogram-embed" data-id="1a08291b-1b84-4e36-ba4f-3f2c943b76cc" data-type="interactive" data-title="Ocean Sand"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/1a08291b-1b84-4e36-ba4f-3f2c943b76cc" style="color:#989898!important;text-decoration:none!important;" target="_blank">Ocean Sand</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
