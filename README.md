@@ -2,8 +2,8 @@
 
 ![Profile Pic](https://jcj217.github.io/Jake-Jager-s-Portfolio/Profile Pic.jpg)<br/>
 [Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)<br/>
-[Link to Assignment 3](https://jcj217.github.io/dataviz2/)<br/>
-[Link to Assignment 3](https://jcj217.github.io/simple-page/)<br/>
+[Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/dataviz2/)<br/>
+[Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/simple-page/)<br/>
 [Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)
 **This is my public portfolio for Telling Stories with Data**
 
