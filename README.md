@@ -2,9 +2,9 @@
 
 ![Profile Pic](https://jcj217.github.io/Jake-Jager-s-Portfolio/Profile Pic.jpg)<br/>
 [Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)<br/>
-[Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/dataviz2/)<br/>
-[Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/simple-page/)<br/>
-[Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)
+[Link to Assignment 3](https://jcj217.github.io/dataviz2/)<br/>
+[Link to Assignment 3](https://jcj217.github.io/simple-page/)<br/>
+
 **This is my public portfolio for Telling Stories with Data**
 
 **About Me:**
@@ -33,3 +33,6 @@ For this visual I decided to simplify and focus on showng a contrast between 201
 **Source:**
 [DHS Alert from Office of the Inspector General](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
 <div class="infogram-embed" data-id="ca5b202f-36d3-40a3-bc97-aa8a83c2db95" data-type="interactive" data-title="DHS Policy Maker Graph Border Patrol"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ca5b202f-36d3-40a3-bc97-aa8a83c2db95" style="color:#989898!important;text-decoration:none!important;" target="_blank">DHS Policy Maker Graph Border Patrol</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<br/>
+**Assignment 3**
+<iframe src="https://data.oecd.org/chart/5CQ3" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CQ3" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
