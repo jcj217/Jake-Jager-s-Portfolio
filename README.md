@@ -2,8 +2,8 @@
 
 ![Profile Pic](https://jcj217.github.io/Jake-Jager-s-Portfolio/Profile Pic.jpg)<br/>
 [Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)<br/>
-[Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/portfolio/)<br/>
-
+[Link to Assignment 3](/Jake-Jager-s-Portfolio/portfolio/)<br/>
+https://github.com/jcj217/Jake-Jager-s-Portfolio.git
 
 **This is my public portfolio for Telling Stories with Data**
 
