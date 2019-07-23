@@ -2,12 +2,11 @@
 
 ![Profile Pic](https://jcj217.github.io/Jake-Jager-s-Portfolio/Profile Pic.jpg)<br/>
 [Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)<br/>
-[Link to Assignment 3](https://github.com/jcj217/Jake-Jager-s-Portfolio/portfolio)<br/>
-[Link to Assignment 3](https://github.com/jcj217/portfolio)<br/>
-[Final Project Page link 1](https://github.com/jcj217/Jake-Jager-s-Portfolio/final_project_JakeJager)<br/>
-[Final Project Page link 2](https://github.com/jcj217/final_project_JakeJager)<br/>
-[Good Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/portfolio)<br/>
-[Good Link to Final Project](https://jcj217.github.io/Jake-Jager-s-Portfolio/final_project_JakeJager)<br/>
+
+
+
+[Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/portfolio)<br/>
+[Link to Final Project](https://jcj217.github.io/Jake-Jager-s-Portfolio/final_project_JakeJager)<br/>
 **This is my public portfolio for Telling Stories with Data**
 
 **About Me:**
