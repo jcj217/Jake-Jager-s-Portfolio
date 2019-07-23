@@ -18,7 +18,7 @@ I am having trouble thinking of a “call to action”, as of yet the presentati
 
 **Data Sources**<br/> 
 So far I have identified two data sources:<br/> 
-The first dataset has the estimated overdose deaths by county for 2017 & 2018. The total for Pennsylvania has gone down slightly. I would like to show this through contrasting maps of the state that are color coded to show the most impacted areas year to year. 
+The first dataset has the estimated overdose deaths by county for 2017 & 2018. The total for Pennsylvania has gone down slightly. I would like to show this through contrasting maps of the state that are color coded to show the most impacted areas year to year. <br/>
 [Estimated PA Drug Overdose Deaths from OpenData PA](https://data.pa.gov/stories/s/Pennsylvania-Opioids/9q45-nckt/) <br/>
 The second data source has much more information but is not specific to PA. It shows the overdose deaths for all 50 states from 2015 to present. It also breaks out the information by type of overdose; Heroin, Synthetic, Methadone, and others. This dataset could be used to show how PA stacks up against the rest of the country. I would also like to show what type of overdoses are happening here compared to other states.<br/>
 [Provisional Drug Overdose Death Counds from CDC & Vital Statistics](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm)
