@@ -1,4 +1,4 @@
-# Jake-Jager's-Portfolio
+
 
 ![Profile Pic](https://jcj217.github.io/Jake-Jager-s-Portfolio/Profile Pic.jpg)<br/>
 [Link to Live Site](https://jcj217.github.io/Jake-Jager-s-Portfolio/)<br/>
