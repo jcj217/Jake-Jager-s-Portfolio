@@ -1,4 +1,4 @@
-**###Final Project Part 2** <br/>
+### **Final Project Part 2** <br/>
 
 **Opening/Hook**<br/>
 I will open the project with a personal story about the accidental overdose death of a coworkers nephew and a former intern for our department. I will not be showing his picture or using his real name. I will also speak about this to my coworker and her family before presenting it or using at all in the project. I have mentioned it to her before and I believe it will be ok. <br/>
