@@ -12,3 +12,27 @@ Next I would like create a verson of the graph below to show how quickly the uni
 Next I would like to re-work the below pie charts, using somthing other than pie-charts to get the point across, that this is mostly a white lower to middle class problem. Also the largest age bracket is 45-54, which is not what people expect. However the second largest age bracket is more in line with peoples expectations, being 25-34.<br/>
 
 ![Fentanyl Graph](https://jcj217.github.io/Jake-Jager-s-Portfolio/Demographics.PNG)<br/>
+
+
+
+
+**Questions I have asked and feedback received**<br/>
+I have spokent to my coworker whos nephew died. The aspect that she was most interested in is what other more common recriational drugs is fentanyl appearing in in Allegheny county. This information is in one of my reports and I plan on including a list of common illicite substances that fentanyl has been found in. She was also interest in where the fentanyl is comming from. But I believe that would be out of the scope of a project this size. In class I received the same question, so I may include in the report a note about this issue. All of the fentanyl is comming up through Mexico with some of it being manufactured in Mexico and some being made in China and shipped to Mexico.<br/>
+The main questions I have received as feedback are:<br/>
+How did this problem start? (out of the scope of this project)<br/>
+What drugs are laced with fentanyl and how can you tell? (I will mention that)<br/>
+What group of people is mostly effected by this? (I will answer that in the demographics section)<br/>
+Some questions about big pharma and who is responsible for this? (again, out of the scope of this project)
+
+**Sources I plan to use**<br/>
+Good One:
+[DEA Bulletin:Cocaine and Fentanyl Combinations in PA ](https://www.dea.gov/sites/default/files/2018-07/BUL-061-18%20Cocaine%20Fentanyl%20Combination%20in%20Pennsylvania%20--%20UNCLASSIFIED.PDF)<br/>  
+
+[Allegheny Overdose Crisis 2018 update:](https://www.overdosefreepa.pitt.edu/wp-content/uploads/2018/09/KarlWilliama_Summer-Conference2018.pdf)<br/>  
+
+[How Can You Tell if Drugs are Laced with Fentanyl:](https://oceanbreezerecovery.org/opioids/fentanyl/laced/)<br/>  
+
+[ABC news, surge in cocaine mixed with fentanyl:](https://abcnews.go.com/US/crisis-surge-cocaine-mixed-fentanyl-communities-law-enforcement/story?id=63846815)<br/> 
+
+[Allegheny County Fentanyl Death Statistics:](https://www.livestories.com/statistics/pennsylvania/allegheny-county-fentanyl-deaths-mortality)<br/>
+  
