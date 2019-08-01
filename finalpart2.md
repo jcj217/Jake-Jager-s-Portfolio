@@ -14,8 +14,8 @@ Next I would like to re-work the below pie charts, using somthing other than pie
 ![Fentanyl Graph](https://jcj217.github.io/Jake-Jager-s-Portfolio/Demographics.PNG)<br/>
 
 **Finally two animated gifs of Fentanyl Overdoses**<br/>
-Finally I would like to create two maps, one of Alleghany county and the other of PA as a whole. Both maps will be animated gifs that will show Fentanyl overdose deaths from 2008 through 2017 with increasing red to illustrate the point. This will be the main backdrop I will use for my 60 second pitch, along with my hook story.
-[Fentanyl Graph](https://jcj217.github.io/Jake-Jager-s-Portfolio/mapalleg.jpg)<br/>
+Finally I would like to create two maps, one of Alleghany county and the other of PA as a whole. Both maps will be animated gifs that will show Fentanyl overdose deaths from 2008 through 2017 with increasing red to illustrate the point. This will be the main backdrop I will use for my 60 second pitch, along with my hook story.<br/>
+![Fentanyl Graph](https://jcj217.github.io/Jake-Jager-s-Portfolio/mapalleg.jpg)<br/>
 
 <iframe title="Opioid Deaths" aria-label="USA pennsylvania counties choropleth map" id="datawrapper-chart-jAO5s" src="//datawrapper.dwcdn.net/jAO5s/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
