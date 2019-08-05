@@ -8,6 +8,12 @@
 [Link to Assignment 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/portfolio)<br/>
 [Link to Final Project Part 1](https://jcj217.github.io/Jake-Jager-s-Portfolio/final_project_JakeJager)<br/>
 [Link to Final Project Part 2](https://jcj217.github.io/Jake-Jager-s-Portfolio/finalpart2)<br/>
+[Link to Final Project Part 3](https://jcj217.github.io/Jake-Jager-s-Portfolio/finalpart3)<br/>
+
+
+
+
+
 **This is my public portfolio for Telling Stories with Data**
 
 **About Me:**
