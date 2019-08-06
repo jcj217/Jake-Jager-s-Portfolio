@@ -1,8 +1,19 @@
 
 [Back to Jake Jager's Portfolio](https://jcj217.github.io/Jake-Jager-s-Portfolio/)<br/>
-
-
+### **Links to Part 1 & 2**
+[Link to Final Project Part 1](https://jcj217.github.io/Jake-Jager-s-Portfolio/final_project_JakeJager)<br/>
+[Link to Final Project Part 2](https://jcj217.github.io/Jake-Jager-s-Portfolio/finalpart2)<br/>
 ### **Final Project Part 3**
+**Intended Audience**<br/>
+I had thought of using a hypothetical intended audience of first responders and police officers. The idea was to have it be the type of report they would hear at their precinct which would prepare them for what they would encounter and give them a historical context for how things got to where they are now. However, not knowing what people in those professions would have for questions or concerns, I shifted the focus to more of a public health warning. This made it easier to empathize with the audience and predict what they might want to here. It also narrowed the focus away from the history of opioids to only what is happening right now. <br/>
+
+During feedback sessions with a few classmates and one coworker I did receive allot of questions about how did we get to this point from the prescription pill crisis of the 90's and early 2000's, but I informed them that was beyond the scope of this project. The next most pressing question I got was "what kind of drugs will you find Fentanyl in?". This was more in line with the public health announcement focus. However my data set did give me difficulty in this area because it list the drugs found in the system upon autopsy. But a coroner cannot decipher if an overdose victim had taken both cocaine laced with fentanyl and a xanax, or cocaine and a xanax laced with fentanyl. I do site a paper that looked at laboratory analyzed police drug seizures of cocaine, but it was not useful by itself as a public health alert. In my research I did discover that Fentanyl is always laced into something, because it is so potent, so I could simply give a list of drugs that were present along with Fentanyl. This information is not from the data set that I used but from other articles. 
+
+
+
+
+
+
 
 <iframe title="Deaths from Fentanyl in Allegheny County" aria-label="USA pennsylvania zip codes choropleth map" id="datawrapper-chart-ZZfyV" src="//datawrapper.dwcdn.net/ZZfyV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">(function() {    'use strict';    window.addEventListener('message', function(event) {        if (typeof event.data['datawrapper-height'] !== 'undefined') {            for (var chartId in event.data['datawrapper-height']) {                var iframe = document.getElementById('datawrapper-chart-' + chartId) || document.querySelector("iframe[src*='" + chartId + "']");                if (!iframe) {                    continue;                }                iframe.style.height = event.data['datawrapper-height'][chartId] + 'px';            }        }    });})();</script>
 
