@@ -44,21 +44,21 @@ Originally I had intended to create an animated gif of Allegheny County show the
 
 ["Cocaine/Fentanyl Combination in Pennsylvania" DEA Bulletin, February 2018,](https://www.dea.gov/sites/default/files/2018-07/BUL-061-18%20Cocaine%20Fentanyl%20Combination%20in%20Pennsylvania%20--%20UNCLASSIFIED.PDF)<br/>
 
-"How Can You Tell if Drugs Are Laced With Fentanyl?" Ocean Breeze Recovery, https://oceanbreezerecovery.org/opioids/fentanyl/laced/
+["How Can You Tell if Drugs Are Laced With Fentanyl?" Ocean Breeze Recovery,](https://oceanbreezerecovery.org/opioids/fentanyl/laced/)<br/>
 
-Nathanson, Marc. " 'Crisis': Surge in cocaine mixed with fentanyl has communities and law enforcement on edge" ABC News, June 28th 2019, https://abcnews.go.com/US/crisis-surge-cocaine-mixed-fentanyl-communities-law-enforcement/story?id=63846815 <br/>
+[Nathanson, Marc. " 'Crisis': Surge in cocaine mixed with fentanyl has communities and law enforcement on edge" ABC News, June 28th 2019,](https://abcnews.go.com/US/crisis-surge-cocaine-mixed-fentanyl-communities-law-enforcement/story?id=63846815) <br/>
 
-Williams, Karl E. MD MPH, Chief Medical Examiner Allegheny County. "The Allegheny Co Overdose Crisis: 2018 - Update" Allegheny County Overdose Prevention, July 19th 2018, https://www.overdosefreepa.pitt.edu/wp-content/uploads/2018/09/KarlWilliama_Summer-Conference2018.pdf <br/>
+[Williams, Karl E. MD MPH, Chief Medical Examiner Allegheny County. "The Allegheny Co Overdose Crisis: 2018 - Update" Allegheny County Overdose Prevention, July 19th 2018,](https://www.overdosefreepa.pitt.edu/wp-content/uploads/2018/09/KarlWilliama_Summer-Conference2018.pdf) <br/>
 
-"Allegheny County Fentanyl Death Statistics" Live Stories Statistics, https://www.livestories.com/statistics/pennsylvania/allegheny-county-fentanyl-deaths-mortality <br/>
+["Allegheny County Fentanyl Death Statistics" Live Stories Statistics,](https://www.livestories.com/statistics/pennsylvania/allegheny-county-fentanyl-deaths-mortality) <br/>
 
-"Fentanyl, What are fentanyl testing strips?" Harm Reduction Coalition, https://harmreduction.org/issues/fentanyl/ <br/>
+["Fentanyl, What are fentanyl testing strips?" Harm Reduction Coalition,](https://harmreduction.org/issues/fentanyl/) <br/>
 
-"Fentanyl test strips prove useful in preventing overdoses" Science Daily, Brown University, October 18th 2018, https://www.sciencedaily.com/releases/2018/10/181018095403.htm <br/>
+["Fentanyl test strips prove useful in preventing overdoses" Science Daily, Brown University, October 18th 2018,](https://www.sciencedaily.com/releases/2018/10/181018095403.htm) <br/>
 
-Deprez, Esmé E & Hui, Li & Wills, Ken "Deadly Chinese Fentanyl Is Creating a New Era of Drug Kingpins" May 22nd 2018, https://www.bloomberg.com/news/features/2018-05-22/deadly-chinese-fentanyl-is-creating-a-new-era-of-drug-kingpins <br/>
+[Deprez, Esmé E & Hui, Li & Wills, Ken "Deadly Chinese Fentanyl Is Creating a New Era of Drug Kingpins" May 22nd 2018,](https://www.bloomberg.com/news/features/2018-05-22/deadly-chinese-fentanyl-is-creating-a-new-era-of-drug-kingpins) <br/>
 
-Image Sources:
+## **Image Sources:** <br/>
 
 [Cover Slide](https://www.surreynowleader.com/news/surge-in-fentanyl-overdose-deaths-sparks-warning/) <br/>
 
@@ -66,10 +66,10 @@ Image Sources:
 
 [Slide 1-2](https://drugsafetynews.com/2019/03/25/fentanyl-the-deadliest-opioid-says-cdc/) <br/>
 
-https://www.economist.com/united-states/2018/01/25/fentanyl-is-lethal-and-almost-impossible-to-keep-out-of-the-country <br/>
+[Slide 2-1](https://www.economist.com/united-states/2018/01/25/fentanyl-is-lethal-and-almost-impossible-to-keep-out-of-the-country) <br/>
 
-https://www.woodstocksentinelreview.com/news/local-news/police-warn-of-increase-of-fentanyl-overdoses <br/>
+[Slide 2-2](https://www.woodstocksentinelreview.com/news/local-news/police-warn-of-increase-of-fentanyl-overdoses) <br/>
 
-https://www.brown.edu/news/2018-10-18/fentanyl <br/>
+[Slide 3-1](https://www.brown.edu/news/2018-10-18/fentanyl) <br/>
 
-https://www.cbc.ca/news/canada/british-columbia/health-officials-hand-out-free-fentanyl-testing-kits-for-british-columbians-to-use-at-home-1.5138001 <br/>
+[Slide 3-2](https://www.cbc.ca/news/canada/british-columbia/health-officials-hand-out-free-fentanyl-testing-kits-for-british-columbians-to-use-at-home-1.5138001) <br/>
