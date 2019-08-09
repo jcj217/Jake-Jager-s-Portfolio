@@ -22,6 +22,8 @@ I am a student in the MPM program at Heinz. I am also a staff member within the 
 **What I hope to learn:**
 I hope to be much more persuasive with my argumentation through visuals. I would also like to learn how to spot manipulated data and visuals when a topic is being spun for political reasons. 
 
+### **Past Data Visualization Assignments** <br/>
+
 <iframe title="Facebook Left-clicks (Copy)" aria-label="Bar Chart" id="datawrapper-chart-tPLUg" src="//datawrapper.dwcdn.net/tPLUg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="295"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 ## **Visualization Critique:**
